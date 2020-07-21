@@ -1,0 +1,171 @@
+.application .black {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+
+.application .black--text {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+
+.application .white {
+  background-color: #FFFFFF !important;
+  border-color: #FFFFFF !important;
+}
+
+.application .white--text {
+  color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+.application .transparent {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+
+.application .transparent--text {
+  color: transparent !important;
+  caret-color: transparent !important;
+}
+
+.application .teal {
+  background-color: #009688 !important;
+  border-color: #009688 !important;
+}
+
+.application .teal--text {
+  color: #009688 !important;
+  caret-color: #009688 !important;
+}
+
+.application .teal.lighten-5 {
+  background-color: #e0f2f1 !important;
+  border-color: #e0f2f1 !important;
+}
+
+.application .teal--text.text--lighten-5 {
+  color: #e0f2f1 !important;
+  caret-color: #e0f2f1 !important;
+}
+
+.application .teal.lighten-4 {
+  background-color: #b2dfdb !important;
+  border-color: #b2dfdb !important;
+}
+
+.application .teal--text.text--lighten-4 {
+  color: #b2dfdb !important;
+  caret-color: #b2dfdb !important;
+}
+
+.application .teal.lighten-3 {
+  background-color: #80cbc4 !important;
+  border-color: #80cbc4 !important;
+}
+
+.application .teal--text.text--lighten-3 {
+  color: #80cbc4 !important;
+  caret-color: #80cbc4 !important;
+}
+
+.application .teal.lighten-2 {
+  background-color: #4db6ac !important;
+  border-color: #4db6ac !important;
+}
+
+.application .teal--text.text--lighten-2 {
+  color: #4db6ac !important;
+  caret-color: #4db6ac !important;
+}
+
+.application .teal.lighten-1 {
+  background-color: #26a69a !important;
+  border-color: #26a69a !important;
+}
+
+.application .teal--text.text--lighten-1 {
+  color: #26a69a !important;
+  caret-color: #26a69a !important;
+}
+
+.application .teal.darken-1 {
+  background-color: #00897b !important;
+  border-color: #00897b !important;
+}
+
+.application .teal--text.text--darken-1 {
+  color: #00897b !important;
+  caret-color: #00897b !important;
+}
+
+.application .teal.darken-2 {
+  background-color: #00796b !important;
+  border-color: #00796b !important;
+}
+
+.application .teal--text.text--darken-2 {
+  color: #00796b !important;
+  caret-color: #00796b !important;
+}
+
+.application .teal.darken-3 {
+  background-color: #00695c !important;
+  border-color: #00695c !important;
+}
+
+.application .teal--text.text--darken-3 {
+  color: #00695c !important;
+  caret-color: #00695c !important;
+}
+
+.application .teal.darken-4 {
+  background-color: #004d40 !important;
+  border-color: #004d40 !important;
+}
+
+.application .teal--text.text--darken-4 {
+  color: #004d40 !important;
+  caret-color: #004d40 !important;
+}
+
+.application .teal.accent-1 {
+  background-color: #a7ffeb !important;
+  border-color: #a7ffeb !important;
+}
+
+.application .teal--text.text--accent-1 {
+  color: #a7ffeb !important;
+  caret-color: #a7ffeb !important;
+}
+
+.application .teal.accent-2 {
+  background-color: #64ffda !important;
+  border-color: #64ffda !important;
+}
+
+.application .teal--text.text--accent-2 {
+  color: #64ffda !important;
+  caret-color: #64ffda !important;
+}
+
+.application .teal.accent-3 {
+  background-color: #1de9b6 !important;
+  border-color: #1de9b6 !important;
+}
+
+.application .teal--text.text--accent-3 {
+  color: #1de9b6 !important;
+  caret-color: #1de9b6 !important;
+}
+
+.application .teal.accent-4 {
+  background-color: #00bfa5 !important;
+  border-color: #00bfa5 !important;
+}
+
+.application .teal--text.text--accent-4 {
+  color: #00bfa5 !important;
+  caret-color: #00bfa5 !important;
+}
+
+/*# sourceMappingURL=main.css.map */
